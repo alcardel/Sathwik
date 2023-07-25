@@ -21,14 +21,14 @@
 
 - ⚡ Fun fact **Obessed with challenges i cannot solve**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">⛓️ Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saathwikkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saathwikkk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathwik-gottipati-989096216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathwik-gottipati-989096216/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sathwik gottipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sathwik gottipati" height="30" width="40" /></a>
-<a href="https://instagram.com/saathwikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saathwikk" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sathwik303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sathwik303" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sathwikgottipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sathwikgottipati" height="30" width="40" /></a>
+<a href="mailto: Sathwikgottipati@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/saathwikk" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/saathwikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+</p>
+
+
 <a href="https://www.leetcode.com/sathwikgottipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwikgottipati" height="30" width="40" /></a>
 </p>
 
