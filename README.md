@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Quantum and Natural Language processing projects**
 
-- 🤝 I’m looking for help with **Natural Language Processing**
+- 🤝 I’m looking for help with **Natural Language Processing**, **COMPUTER VISION**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, SQL, ROBOTIC PROCESS AUTOMATION, ML....**
 
